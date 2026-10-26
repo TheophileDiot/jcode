@@ -1,0 +1,23 @@
+crates/jcode-tui-mermaid/src/mermaid_runtime.rs
+  s_d898d82524ddcf::t_2c24336dbb2548 218-220,226,229-232,442-443
+  s_d898d82524ddcf::t_018a35881019c4 221-222,227,444-445
+  s_d898d82524ddcf::t_af4b8b23fc3aa6 461-462,465-466,1014-1015,1017-1020,1022-1031,1033-1036,1056-1069,1071-1072,1087-1088
+  s_d898d82524ddcf::t_3de2a58206e7ff 463-464,1011,1016,1021,1032,1043,1049,1053,1070,1073-1086
+  s_d898d82524ddcf::t_97490802b93792 1001-1006
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e45b8e6833830749c38aa21d9729eb5002199ff5",
+  "prompts": {},
+  "sessions": {
+    "s_d898d82524ddcf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1777d-cec2-7713-bac2-de16b85c8d8d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "TheophileDiot <tdiot@bunkerity.com>"
+    }
+  }
+}
